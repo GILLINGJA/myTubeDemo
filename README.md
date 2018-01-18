@@ -1,25 +1,15 @@
-# ReduxSimpleStarter
+# MyTube Demo
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Made with Redux Simple Starter from Stephen Grider
+(https://github.com/StephenGrider/ReduxSimpleStarter.git)
 
-### Getting Started
+# About
+A basic video search tool utilising the YouTube API
+Default term - surfboards
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+# How to run from git
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/GILLINGJA/myTubeDemo.git
 > npm install
 > npm start
 ```
